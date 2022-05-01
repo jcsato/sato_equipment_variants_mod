@@ -51,7 +51,7 @@ This should be generally compatible with other mods, although mods that change t
 
 This is unlikely to be compatible with the Legends mod, as it uses a unique layered armor system in which these items don't exist. You can achieve similar equipment variety with that system already, however, so this mod is somewhat redundant with Legends.
 
-### Building
+## Building
 
 To build, run the appropriate `build_*.bat` script. This will automatically compile and zip up the mod and put it in the `dist/` directory, as well as print out compile errors if there are any. The zip behavior requires Powershell / .NET to work - no reason you couldn't sub in 7-zip or another compression utility if you know how, though.
 
