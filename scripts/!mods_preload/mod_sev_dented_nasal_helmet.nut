@@ -3,18 +3,16 @@
 		// dented_nasal_helmet.updateVariant overwrites helmet's, hardcoding the variant
 		// This recreates the default helmet updateVariant
 		::mods_addMember(dnh, "dented_nasal_helmet", "updateVariant", function() {
-			local variant = m.Variant > 9 ? m.Variant : "0" + m.Variant;
-			m.Sprite = "bust_" + m.VariantString + "_" + variant;
-			m.SpriteDamaged = "bust_" + m.VariantString + "_" + variant + "_damaged";
-			m.SpriteCorpse = "bust_" + m.VariantString + "_" + variant + "_dead";
-			m.IconLarge = "";
-			m.Icon = "helmets/inventory_" + m.VariantString + "_" + variant + ".png";
+			if (!m.Variant)
+				m.Variant = 30;
+
+			helmet.updateVariant();
 		});
 
 		::mods_addMember(dnh, "dented_nasal_helmet", "onPaint", function( _color ) {
 			switch(_color) {
 				case Const.Items.Paint.None:
-					m.Variant = 0;
+					m.Variant = 30;
 					break;
 
 				case Const.Items.Paint.WhiteBlue:
