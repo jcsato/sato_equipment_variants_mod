@@ -2,7 +2,7 @@
 
 set modname=sato_equipment_variants
 set modkitdir=YOUR_MODKIT_BIN_PATH
-set version=1.2
+set version=1.3
 
 echo.
 echo Creating temporary directory...

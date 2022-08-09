@@ -32,6 +32,10 @@
 
 <img src="./MailWithLamellarPlatingItemCard.png" width="600">
 
+## Padded Mail and Lamellar Hauberk
+
+<img src="./PaddedMailAndLamellarHauberkItemCard.png" width="600">
+
 ## Padded Dented Nasal Helmet
 
 <img src="./PaddedDentedNasalHelmetItemCard.png" width="600">
@@ -39,3 +43,7 @@
 ## Hooded Full Helm
 
 <img src="./HoodedFullHelmItemCard.png" width="600">
+
+## Adarga Shield
+
+<img src="./AdargaShieldItemCard.png" width="600">

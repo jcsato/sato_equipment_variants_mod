@@ -23,9 +23,14 @@ Adds visual variations of some vanilla items. Specifically:
 - **[Coats of Scale](./screenshots/CoatOfScalesItemCard.png)** can now show up with fancy red cloaks. Knights will never spawn with cloaked variants.
 - **[Coats of Plate](./screenshots/CoatOfPlatesItemCard.png)** can now show up with fancy green cloaks. Knights will never spawn with cloaked variants.
 - **[Mail with Lamellar Plating](./screenshots/MailWithLamellarPlatingItemCard.png)** will now show up in Green and Purple variants. Officers & Viziers will spawn with color-appropriate variants for their faction.
+- **[Padded Mail and Lamellar Hauberk](./screenshots/MailWithLamellarPlatingItemCard.png)** will now show up in Green and Purple variants. Officers & Viziers will spawn with color-appropriate variants for their faction.
 
 - **[Padded Dented Nasal Helmets](./screenshots/PaddedDentedNasalHelmetItemCard.png)** are now paintable.
 - **[Full Helms](./screenshots/HoodedFullHelmItemCard.png)** now have (paintable!) hooded variants. Knights will never spawn with hooded variants.
+
+- **[Adarga Shields](./screenshots/AdargaShieldItemCard.png)** will now show up in Green and Purple variants. Conscripts will spawn with color-appropriate variants for their faction (they may still spawn with brown and tan variants regardless of faction).
+
+- Also, Vizier-specific decorative gear will now be Green and Purple (on gear that was normally only Red) when appropriate, and Officers on the world map will have color-appropriate armor for their faction.
 
 ## Requirements
 
