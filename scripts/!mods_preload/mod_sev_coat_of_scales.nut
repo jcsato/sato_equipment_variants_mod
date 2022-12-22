@@ -1,6 +1,6 @@
 ::mods_queue("sato_equipment_variants", "", function() {
 	::mods_hookNewObject("items/armor/coat_of_scales", function(cos) {
-		local variants = [ 37, 37, 37, 220 ];
+		local variants = [ 38, 38, 38, 220 ];
 		::mods_addField(cos, "coat_of_scales", "Variant",  variants[Math.rand(0, variants.len() - 1)]);
 		cos.updateVariant();
 	});
