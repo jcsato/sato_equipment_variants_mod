@@ -1,6 +1,6 @@
 ::mods_queue("sato_equipment_variants", "", function() {
 	::mods_hookNewObject("items/armor/coat_of_plates", function(cop) {
-		local variants = [ 37, 37, 37, 209 ];
+		local variants = [ 37, 37, 37, 220 ];
 		::mods_addField(cop, "coat_of_plates", "Variant",  variants[Math.rand(0, variants.len() - 1)]);
 		cop.updateVariant();
 	});
