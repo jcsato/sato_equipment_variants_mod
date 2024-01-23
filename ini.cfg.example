@@ -1,0 +1,7 @@
+[General]
+modname=sato_equipment_variants
+version=1.4
+
+[Build]
+modkitpath=YOUR_MODKIT_PATH_HERE
+datapath=YOUR_DATA_PATH_HERE

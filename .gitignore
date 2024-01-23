@@ -1,2 +1,6 @@
-dist/
+dist/scripts/
+dist/*.zip
 old_versions/
+brushes/
+gfx/
+ini.cfg
