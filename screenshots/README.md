@@ -44,6 +44,26 @@
 
 <img src="./HoodedFullHelmItemCard.png" width="600">
 
+## Adorned Warrior's Armor
+
+<img src="./AdornedWarriorsArmorItemCard.png" width="600">
+
+## Adorned Heavy Mail Hauberk
+
+<img src="./AdornedHeavyMailHauberkItemCard.png" width="600">
+
+## Heavy Mail Coif
+
+<img src="./HeavyMailCoifItemCard.png" width="600">
+
+## Adorned Closed Flat Top With Mail
+
+<img src="./AdornedClosedFlatTopWithMailItemCard.png" width="600">
+
+## Adorned Full Helm
+
+<img src="./AdornedFullHelmItemCard.png" width="600">
+
 ## Adarga Shield
 
 <img src="./AdargaShieldItemCard.png" width="600">
