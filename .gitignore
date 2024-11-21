@@ -1,6 +1,3 @@
-dist/scripts/
-dist/*.zip
+dist/
 old_versions/
-brushes/
-gfx/
 ini.cfg
