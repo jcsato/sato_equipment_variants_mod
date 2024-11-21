@@ -28,6 +28,11 @@ Adds visual variations of some vanilla items. Specifically:
 - **[Padded Dented Nasal Helmets](./screenshots/PaddedDentedNasalHelmetItemCard.png)** are now paintable.
 - **[Full Helms](./screenshots/HoodedFullHelmItemCard.png)** now have (paintable!) hooded variants. Knights will never spawn with hooded variants.
 
+- **[Heavy Mail Coifs](./screenshots/HeavyMailCoifItemCard.png)** now have Red-Blue and Turquoise-Gold variants, to match Oathtaker "Heavy" and "Medium" color schemes.
+- **[Adorned Warrior's Armor](./screenshots/AdornedWarriorsArmorItemCard.png)** and **[Adorned Closed Flat Tops With Mail](./screenshots/AdornedClosedFlatTopWithMailItemCard.png)** now have Red-Blue and White-Blue variants, to match Oathtaker "Heavy" and "Light" color schemes.
+- **[Adorned Heavy Mail Hauberks](./screenshots/AdornedHeavyMailHauberkItemCard.png)** and **[Adorned Full Helms](./screenshots/AdornedFullHelmItemCard.png)** now have Turquoise-Gold and White-Blue variants, to match Oathtaker "Medium" and "Light" color schemes.
+    - Wherever possible, Oathtakers (and Oathbringers) will spawn with matching colors of helmet and armor.
+
 - **[Adarga Shields](./screenshots/AdargaShieldItemCard.png)** will now show up in Green and Purple variants. Conscripts will spawn with color-appropriate variants for their faction (they may still spawn with brown and tan variants regardless of faction).
 
 - Also, Vizier-specific decorative gear will now be Green and Purple (on gear that was normally only Red) when appropriate, and Officers on the world map will have color-appropriate armor for their faction.
