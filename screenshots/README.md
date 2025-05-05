@@ -64,6 +64,10 @@
 
 <img src="./AdornedFullHelmItemCard.png" width="600">
 
+## Kite Shield
+
+<img src="./KiteShieldItemCard.png" width="600">
+
 ## Adarga Shield
 
 <img src="./AdargaShieldItemCard.png" width="600">

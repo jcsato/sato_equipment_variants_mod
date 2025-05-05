@@ -33,6 +33,8 @@ Adds visual variations of some vanilla items. Specifically:
 - **[Adorned Heavy Mail Hauberks](./screenshots/AdornedHeavyMailHauberkItemCard.png)** and **[Adorned Full Helms](./screenshots/AdornedFullHelmItemCard.png)** now have Turquoise-Gold and White-Blue variants, to match Oathtaker "Medium" and "Light" color schemes.
     - Wherever possible, Oathtakers (and Oathbringers) will spawn with matching colors of helmet and armor.
 
+- **[Kite Shields](./screenshots/KiteShieldItemCard.png)** will now show up in a Turquoise-Gold variant, to match Oathtaker "Medium" color schemes (inspired by an Angus McBride illustration of a 13th-century Swedish levy).
+
 - **[Adarga Shields](./screenshots/AdargaShieldItemCard.png)** will now show up in Green and Purple variants. Conscripts will spawn with color-appropriate variants for their faction (they may still spawn with brown and tan variants regardless of faction).
 
 - Also, Vizier-specific decorative gear will now be Green and Purple (on gear that was normally only Red) when appropriate, and Officers on the world map will have color-appropriate armor for their faction.

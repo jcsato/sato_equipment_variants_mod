@@ -1,6 +1,9 @@
-::mods_registerMod("sato_equipment_variants", 1.5, "Sato's Equipment Variants");
+::mods_registerMod("sato_equipment_variants", 1.6, "Sato's Equipment Variants");
 
 ::mods_queue("sato_equipment_variants", null, function() {
+	::include("script_hooks/!sev_constants");
+	::include("script_hooks/!sev_helpers");
+
 	::include("script_hooks/mod_sev_adorned_closed_flat_top_with_mail");
 	::include("script_hooks/mod_sev_adorned_full_helm");
 	::include("script_hooks/mod_sev_adorned_heavy_mail_hauberk");
@@ -12,6 +15,7 @@
 	::include("script_hooks/mod_sev_footman_armor");
 	::include("script_hooks/mod_sev_heavy_mail_coif");
 	::include("script_hooks/mod_sev_hooded_full_helm");
+	::include("script_hooks/mod_sev_kite_shield");
 	::include("script_hooks/mod_sev_mail_and_lamellar_plating");
 	::include("script_hooks/mod_sev_mail_hauberk");
 	::include("script_hooks/mod_sev_noble_mail");
